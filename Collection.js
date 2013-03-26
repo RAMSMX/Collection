@@ -336,7 +336,6 @@
                 index = 0;
         } else if (index > collection.count)
             index = collection.count;
-        console.log("generalized index: " + index);
         return index;
     }
 
